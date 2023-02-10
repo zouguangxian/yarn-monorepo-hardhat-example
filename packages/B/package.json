@@ -1,0 +1,16 @@
+{
+  "name": "@examples/B",
+  "packageManager": "yarn@3.3.1",
+  "scripts": {
+    "build": "$npm_execpath hardhat compile"
+  },
+  "devDependencies": {
+    "@examples/A": "workspace:^",
+    "@examples/hardhat-config": "workspace:^",
+    "@typechain/ethers-v5": "^10.2.0",
+    "hardhat": "^2.12.7",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.1",
+    "typescript": "^4.9.5"
+  }
+}

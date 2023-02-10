@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/gx/Documents/GitHub/zouguangxian/yarn-monorepo-hardhat/packages/A/contracts/access.sol": {
+      "lastModificationDate": 1675998222701,
+      "contentHash": "4f1fbff58083dc1e8923bfd5e6387135",
+      "sourceName": "contracts/access.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.7.6"
+      ],
+      "artifacts": [
+        "access"
+      ]
+    }
+  }
+}
